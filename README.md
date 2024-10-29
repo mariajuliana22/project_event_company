@@ -1,7 +1,14 @@
 # project_showz
-Optimizar los gastos de marketing - Showz (empresa de venta de entradas de eventos)
+Optimizar los gastos de marketing - Showz (empresa de venta de entradas de eventos) / Optimizing Marketing Expenses - Showz (Event Ticket Sales Company).
 
-Proyecto hecho para TripleTen (Bootcamp online) - Sprint 9. Análisis de negocios
+Proyecto hecho para TripleTen (Bootcamp online) - Sprint 9. Análisis de negocios / Project completed for TripleTen (Online Bootcamp) - Sprint 9. Business Analysis
 
-# Descripción del proyecto
-Te han ofrecido hacer prácticas en el departamento de analítica de Showz, una empresa de venta de entradas de eventos. Tu primera tarea es ayudar a optimizar los gastos de marketing. 
+# Descripción del proyecto / Project description
+
+Optimizar los gastos de marketing. 
+
+---
+
+Optimize marketing expenses.
+
+
